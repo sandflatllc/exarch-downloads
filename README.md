@@ -1,5 +1,5 @@
-# Exarch downloads
+# Exarch downloads (moved)
 
-Installers for [Exarch](https://exarch.run), the desktop app where you and your AI agents work.
+Exarch's installers now live at [exarch-run/exarch-downloads](https://github.com/exarch-run/exarch-downloads/releases/latest). This repository is archived and gets no new releases.
 
-Get the latest from the [Releases](https://github.com/sandflatllc/exarch-downloads/releases/latest) page, or from the download section on [exarch.run](https://exarch.run/#download).
+Download the latest from [exarch.run](https://exarch.run/#download).
